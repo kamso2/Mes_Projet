@@ -1,0 +1,4 @@
+Rapport de ping (résumé) - dim. 16 nov. 2025 02:00:54 CET
+==============================
+192.168.199.128 est accessible ✅
+8.8.8.8 est accessible ✅

@@ -1,0 +1,28 @@
+Rapport de ping (brut) - dim. 16 nov. 2025 02:00:54 CET
+==============================
+
+===== Ping vers 192.168.199.128 =====
+PING 192.168.199.128 (192.168.199.128) 56(84) bytes of data.
+64 bytes from 192.168.199.128: icmp_seq=1 ttl=64 time=0.070 ms
+64 bytes from 192.168.199.128: icmp_seq=2 ttl=64 time=0.110 ms
+64 bytes from 192.168.199.128: icmp_seq=3 ttl=64 time=0.093 ms
+64 bytes from 192.168.199.128: icmp_seq=4 ttl=64 time=0.169 ms
+64 bytes from 192.168.199.128: icmp_seq=5 ttl=64 time=0.086 ms
+64 bytes from 192.168.199.128: icmp_seq=6 ttl=64 time=0.090 ms
+
+--- 192.168.199.128 ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5129ms
+rtt min/avg/max/mdev = 0.070/0.103/0.169/0.031 ms
+
+===== Ping vers 8.8.8.8 =====
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=128 time=92.7 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=128 time=92.0 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=128 time=94.2 ms
+64 bytes from 8.8.8.8: icmp_seq=4 ttl=128 time=95.3 ms
+64 bytes from 8.8.8.8: icmp_seq=5 ttl=128 time=89.6 ms
+64 bytes from 8.8.8.8: icmp_seq=6 ttl=128 time=89.3 ms
+
+--- 8.8.8.8 ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5013ms
+rtt min/avg/max/mdev = 89.281/92.186/95.346/2.224 ms
